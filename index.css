@@ -32,5 +32,18 @@ hr{
     box-shadow: 3px 3px 9px black;
 }
 .buttons{
-    
+  
+     display: grid; 
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+     padding: 10px;
+           
+}
+
+
+.butn{
+    padding: 18px; 
+    border-radius: 15px;
+    border: none;
+    margin: 2px;
+    box-shadow: inset 4px 2px 16px ;
 }
