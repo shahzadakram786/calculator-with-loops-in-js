@@ -47,3 +47,14 @@ hr{
     margin: 2px;
     box-shadow: inset 4px 2px 16px ;
 }
+
+#display{
+    padding: 20px;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow:inset 4px 2px 19px black ;
+    height: 2em;
+    
+}
